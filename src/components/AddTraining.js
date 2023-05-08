@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { new_training_url, trainings_url } from "../constants";
 import {
   LocalizationProvider,
-  DateTimePicker,
   StaticDateTimePicker,
   
 } from "@mui/x-date-pickers";

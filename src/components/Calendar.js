@@ -1,7 +1,7 @@
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import timeGridPlugin from "@fullcalendar/timegrid";
-import React, { useState } from "react";
+import React from "react";
 import { trainings_url } from "../constants";
 import { useEffect } from "react";
 import dayjs from "dayjs";
